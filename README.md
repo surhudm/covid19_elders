@@ -8,7 +8,7 @@ A gui to help in string placements of translations on FAQ images.
 ```
 python3
 ```
-The code requires the `tkinter` package which should be installed with most python platforms automatically. We also require the latest python imaging library (pillow), install using 
+The code requires the `tkinter` package which should be installed with most python platforms automatically. We also require the latest python imaging library (pillow >=6.2.2), install using 
 
 ```
 pip install pillow
