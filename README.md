@@ -1,5 +1,4 @@
-# covid19_elders
-Elders whatsapp
+# Elders whatsapp
 
 A gui to help in string placements of translations on FAQ images.
 
@@ -15,7 +14,7 @@ pip install pillow
 if you need a link). Unzip and store in a directory named `Noto` within the
 repository.
 
-3. Download the translations csv file from google sheets.
+3. Download the translations csv file from google sheets and save it as `Elders.csv`.
 
 
 ## Running the code
