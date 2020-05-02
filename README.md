@@ -5,18 +5,18 @@ A gui to help in string placements of translations on FAQ images.
 
 ## Requirements to run the code:
 
-```
-python3
-```
-The code requires the `tkinter` package which should be installed with most python platforms automatically. We also require the latest python imaging library (pillow >=6.2.2), install using 
+1. You need `python3` to run the code. The code requires the `tkinter` package which should be installed with most python platforms automatically. We also require the latest python imaging library (pillow >=6.2.2), install using 
 
 ```
 pip install pillow
 ```
 
-You need to download the Noto fonts from the Google noto repository (email me
+2. You need to download the Noto fonts from the Google noto repository (email me
 if you need a link). Unzip and store in a directory named `Noto` within the
 repository.
+
+3. Download the translations csv file from google sheets.
+
 
 ## Running the code
 
