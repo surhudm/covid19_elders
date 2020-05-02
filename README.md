@@ -10,8 +10,8 @@ A gui to help in string placements of translations on FAQ images.
 pip install pillow
 ```
 
-2. You need to download the Noto fonts from the Google noto repository (email me
-if you need a link). Unzip and store in a directory named `Noto` within the
+2. You need to download the Noto fonts from the [Google noto repository](https://www.google.com/get/noto/), email me if you need a link to select
+Indian languages. Unzip and store in a directory named `Noto` within the
 repository.
 
 3. Download the translations csv file from google sheets and save it as `Elders.csv`.
