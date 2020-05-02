@@ -7,7 +7,7 @@ A gui to help in string placements of translations on FAQ images.
 python gui.py language
 ```
 
-Select string by pressing `1`, `2`, `3`.
+Select string by pressing `1` (question string), `2` (answer string), `3` (Title string in English).
 
 Increase or decrease the font size with `i` or `d`, respectively.
 
