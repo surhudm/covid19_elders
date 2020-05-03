@@ -1,3 +1,13 @@
+Assamese:
+  font1: Noto/Bengali/NotoSansBengali-Bold.ttf
+  font2: Noto/Bengali/NotoSansBengali-Regular.ttf
+  size1: 30
+  size2: 24
+Bengali:
+  font1: Noto/Bengali/NotoSansBengali-Bold.ttf
+  font2: Noto/Bengali/NotoSansBengali-Regular.ttf
+  size1: 30
+  size2: 27
 English:
   font1: Noto/English/Montserrat-Bold.ttf
   font2: Noto/English/Montserrat-Regular.ttf
